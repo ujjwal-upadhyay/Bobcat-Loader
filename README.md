@@ -1,3 +1,3 @@
 # Bobcat-Loader
 A solidworks-animated design of Bobcat Loader.
-Bobcat-Loader/Bobcat-Assembly.gif
+![Bobcat-Loader](Bobcat-loader)
